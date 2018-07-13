@@ -21,6 +21,10 @@ func main() {
 	const d = 3e20 / n
 	fmt.Println(d)
 
+	// trying out another arithmetic formula
+	const dd = 3.14 * (n * n)
+	fmt.Println(dd)
+
 	// A numeric constant has no type until it's given
 	// one, such as by an explicit cast.
 	fmt.Println(int64(d))
