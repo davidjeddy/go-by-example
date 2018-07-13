@@ -1,5 +1,6 @@
 // _Interfaces_ are named collections of method
 // signatures.
+// Additional reading: http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go
 
 package main
 
