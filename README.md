@@ -80,19 +80,19 @@
 
  * [Stateful Goroutines](./stateful-goroutines.go)
 
- * [Sorting](./*.go)
+ * [Sorting](./sorting.go)
 
- * [Sorting by Functions](./*.go)
+ * [Sorting by Functions](./sort.go)
 
- * [Panic](./*.go)
+ * [Panic](./panic.go)
 
- * [Defer](./*.go)
+ * [Defer](./defer.go)
 
- * [Collection Functions](./*.go)
+ * [Collection Functions](./coll.go)
 
- * [String Functions](./*.go)
+ * [String Functions](./string-functions.go.go)
 
- * [String Formatting](./*.go)
+ * [String Formatting](./string-formatting.go.go)
 
  * [Regular Expressions](./*.go)
 
