@@ -4,81 +4,81 @@
 
 # Lessons
 
- * [Hello World](./*.go)
+ * [Hello World](./hello-world.go)
 
- * [Values](./*.go)
+ * [Values](./values.go)
 
- * [Variables](./*.go)
+ * [Variables](./variables.go)
 
- * [Constants](./*.go)
+ * [Constants](./constants.go)
 
- * [For](./*.go)
+ * [For](./for.go)
 
- * [If/Else](./*.go)
+ * [If/Else](./if-else.go)
 
- * [Switch](./*.go)
+ * [Switch](./switch.go)
 
- * [Arrays](./*.go)
+ * [Arrays](./arrays.go)
 
- * [Slices](./*.go)
+ * [Slices](./slices.go)
 
- * [Maps](./*.go)
+ * [Maps](./maos.go)
 
- * [Range](./*.go)
+ * [Range](./range.go)
 
- * [Functions](./*.go)
+ * [Functions](./functions.go)
 
- * [Multiple Return Values](./*.go)
+ * [Multiple Return Values](./multiple-return-values.go)
 
- * [Variadic Functions](./*.go)
+ * [Variadic Functions](./variadic-functions.go)
 
- * [Closures](./*.go)
+ * [Closures](./closures.go)
 
- * [Recursion](./*.go)
+ * [Recursion](./recursion.go)
 
- * [Pointers](./*.go)
+ * [Pointers](./pointers.go)
 
- * [Structs](./*.go)
+ * [Structs](./structs.go)
 
- * [Methods](./*.go)
+ * [Methods](./methods.go)
 
- * [Interfaces](./*.go)
+ * [Interfaces](./interfaces.go)
 
- * [Errors](./*.go)
+ * [Errors](./errors.go)
 
- * [Goroutines](./*.go)
+ * [Goroutines](./goroutines.go)
 
- * [Channels](./*.go)
+ * [Channels](./channels.go)
 
- * [Channel Buffering](./*.go)
+ * [Channel Buffering](./channel-buffering.go)
 
- * [Channel Synchronization](./*.go)
+ * [Channel Synchronization](./channel-synchronization.go)
 
- * [Channel Directions](./*.go)
+ * [Channel Directions](./channel-directions.go)
 
- * [Select](./*.go)
+ * [Select](./select.go)
 
- * [Timeouts](./*.go)
+ * [Timeouts](./timeout.go)
 
- * [Non-Blocking Channel Operations](./*.go)
+ * [Non-Blocking Channel Operations](./non-blocking-channel-operations.go)
 
- * [Closing Channels](./*.go)
+ * [Closing Channels](./closing-channels.go)
 
- * [Range over Channels](./*.go)
+ * [Range over Channels](./range-over-channels.go)
 
- * [Timers](./*.go)
+ * [Timers](./timers.go)
 
- * [Tickers](./*.go)
+ * [Tickers](./tickers.go)
 
- * [Worker Pools](./*.go)
+ * [Worker Pools](./worker-pools.go)
 
  * [Rate Limiting](./*.go)
 
- * [Atomic Counters](./*.go)
+ * [Atomic Counters](./atomic-counters.go)
 
- * [Mutexes](./*.go)
+ * [Mutexes](./mutexes.go)
 
- * [Stateful Goroutines](./*.go)
+ * [Stateful Goroutines](./stateful-goroutines.go)
 
  * [Sorting](./*.go)
 
