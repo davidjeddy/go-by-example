@@ -134,8 +134,11 @@
 
  * [Exit](./*.go)
  
- #Further Reading
+ #Further Resources
  
   * https://golang.org/
+  
+  * https://play.golang.org/
+  
   
   
