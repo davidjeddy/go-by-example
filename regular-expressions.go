@@ -27,7 +27,7 @@ func main() {
 	fmt.Println(r.FindString("peach punch"))
 
 	// This also finds the first match but returns the
-	// start and end indexes for the match instead of the
+	// start and end indexes for the match instead of thecc
 	// matching text.
 	fmt.Println(r.FindStringIndex("peach punch"))
 
